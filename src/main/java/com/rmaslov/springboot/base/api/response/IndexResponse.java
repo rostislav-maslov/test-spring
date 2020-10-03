@@ -1,4 +1,4 @@
-package com.rmaslov.springboot.base;
+package com.rmaslov.springboot.base.api.response;
 
 import lombok.Builder;
 import lombok.Getter;
